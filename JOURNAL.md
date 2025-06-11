@@ -20,6 +20,7 @@ Parts I have
 - Rails
 - Belts
 - Some Motors
+
 Parts I need
 - Bearings
 - Pulleys
@@ -32,6 +33,7 @@ Parts I have
 - Rails
 - Leadscrews
 - Motors
+
 Parts I  need
 - Bearings (For Maxwell coupling)
 - Rods
