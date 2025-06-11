@@ -64,6 +64,7 @@ Parts I have
 - Mainboard
 - Rasberry PI
 - PSU
+
 Parts I need
 - Wiring 
 - Panels
