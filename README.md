@@ -1,7 +1,7 @@
 # Cuprite
 Ender 5 + to Fast Corexy conversion 
 
-##Design Goals
+## Design Goals
 - Fast and Rigid Corexy Gantry
   * Likely using monolith belt path but modified for CNCing
 - Solid Frame
