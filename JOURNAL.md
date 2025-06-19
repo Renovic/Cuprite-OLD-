@@ -72,3 +72,14 @@ Parts I need
 
 
 **Hours Spent: 3** 
+
+# Day 2 - CAD started
+Created a new frame using some of the extrusions from the base Ender 5. Primary goals of this frame is to maximize travel from using 400mm rails and still have space for large toolheads.
+I then added the 9mm 2wd configuration of the Monolith gantry as a placeholder. Soon I'm going to modify it to add a strucural front brace and make it attach to the extra 2020 extrusions on the side and back rather than only the gantry extrusions.
+
+I started planning the Z axis by placing the bed for keeping the most usable bed space. I only have some extra extrusion left over, so I'm figuring out the extrusions for the bed framing.
+
+![Screenshot 2025-06-18 230845](https://github.com/user-attachments/assets/bde613d4-5830-4647-a391-a5f413e675f5)
+
+**Hours Spent: 3**
+**Total: 6** 
