@@ -83,3 +83,43 @@ I started planning the Z axis by placing the bed for keeping the most usable bed
 
 **Hours Spent: 3**
 **Total: 6** 
+
+# Day 3 & 4 Starting From Scratch
+I decided to restart this printer design to be a 160 mm^3 printer. The 3 main reasons why I decided on this change was the cost, weight, and usability. 
+With the Ender 5 frame, the panels were 555x700mm and would have cost $30 each and were taking up a lot of the budget. And this massive frame and large panels would have made it weigh too much to carry myself.
+This new printer has a footprint of 330x330mm and will weigh significantly less. Also I knew that 95% of parts fit withing a 160mm^3 build volume.
+
+### Frame
+The Frame was designed to use a majority of parts from an ender 3 pro, some extrusions from the ender 5 and some extras I had on hand. The main difficulty and what I spent the most time on today was making the gantry large enough for the whole 160mm travel for the bed and have some overtravel for docking and undocking probes. Another constraint for the frame design was the panels. For cheap panels I needed to keep them all the same dimensions. 
+After playing with frame sizes for a while I landed on this design, which gave me 170mm X travel and 163mm Y travel, with 330x460mm Panels. 
+![Frame Screenshot](/Images/Screenshot%202025-07-25%20181412.png)
+
+### Gantry
+I decided to stick with a monolith gantry-based design, to be able the get high preformance. The belt lengths on this printer are 1080mm compared to the 2.4m belts on the E5. 
+So I get to resuse my motors, belts and some hardware, but I will need to redesign the motor mounts to use lasercut aluminum. 
+All of the parts will be modified, but currently as a placeholder I put the stock monolith gantry, and UAPv6 Toolhead.
+![Gantry Screenshot](/Images/Screenshot%202025-07-25%20220111.png)
+
+### Panels & Door
+Part of designing the frame was ensuring I had enough extrusion left over for a door, so I can get better chamber temps(I'm hoping for 70C). 
+I will have to drill and cut panels my self after ordering the 330x460mm panels from misumi, because its the cheapest way to get structural panels.
+![Gantry Screenshot](/Images/Screenshot%202025-07-26%20010547.png)
+
+### Parts Sourcing
+I made a spreadsheet to keep track of all of the part costs. I started by making it for the Ender 5, but saw that the total parts cost would excede $350 because the panels would cost $150. 
+So when designing and planning the 160mm printer, I made sure to reduce costs wherever possible. The main cost saving I manage was:
+Panels - Using Meviy and discounts; 5 panels at $15 per panel
+Part Cooling - Found much cheaper alternatives at $40 for fan and $5 for ducting compared to the $90 previously
+Linear rails - Most linear rails cost around $20-25 per rail even with short 200mm rails that I needed. But I found BST motion that gave me the price of $63 for all 6 rails
+
+https://docs.google.com/spreadsheets/d/190TWAfKuzCkUHcKWP5val5u4-TL7WqxvR4hfKsAo7_s/edit?usp=sharing
+
+**Hours Spent: 15**
+**Total: 21** 
+
+
+
+
+
+
+
