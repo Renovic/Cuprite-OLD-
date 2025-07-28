@@ -117,7 +117,18 @@ https://docs.google.com/spreadsheets/d/190TWAfKuzCkUHcKWP5val5u4-TL7WqxvR4hfKsAo
 **Hours Spent: 15**
 **Total: 21** 
 
+# Day 5&6 - Toolhead & More parts sourcing
+I decided to go with an SLM toolhead for the best rigidity possible, and to have good clamping force on the belts.
+I designed a 3 part toolhead with the Monolith Belt Clamp and the larger body toolhead that has ducts and extruder combined, with an abs-cf extruder housing.
 
+I found an alternative supplier for the panels to reduce cost even further, since I forgot to acount for shipping and taxes previously.
+I also updated all of the parts to include shipping and taxes to find a more accurate total cost, since I was close to $350.
+Currently the total cost is $357, so I might have to swap to an primarly fdm toolhead instead of slm. 
+
+![Toolhead Screenshot](/Images/Screenshot%202025-07-26%20010547.png)
+
+**Hours Spent: 12**
+**Total: 33** 
 
 
 
