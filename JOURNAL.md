@@ -125,7 +125,7 @@ I found an alternative supplier for the panels to reduce cost even further, sinc
 I also updated all of the parts to include shipping and taxes to find a more accurate total cost, since I was close to $350.
 Currently the total cost is $357, so I might have to swap to an primarly fdm toolhead instead of slm. 
 
-![Toolhead Screenshot](/Images/Screenshot%202025-07-26%20010547.png)
+![Toolhead Screenshot](/Images/Screenshot%202025-07-28%20163733.png)
 
 **Hours Spent: 12**
 **Total: 33** 
