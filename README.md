@@ -1,18 +1,20 @@
 # Cuprite
-Ender 5 + to Fast Corexy conversion 
+160mm^3 Fixed Gantry High Speed Corexy
 
 ## Design Goals
 - Fast and Rigid Corexy Gantry
-  * Likely using monolith belt path but modified for CNCing
+  * Monolith Belt path using a mix of sheet metal and fdm 
 - Solid Frame
-  * Reuse as much as possible from Ender 5 frame
-  * Using 2020 T slot to create full enclosure and wider x axis for full travel
+  * Using on hand extrusions inlcuding Ender 3 Pro frame
+  * As Much 4040 and 2040 as possible
+  * 1/8" Aluminum structural panels
 - Triple Z Axis
-  * Triple indepenently controlled leadscrews
-  * Maxwell motion coupling to bed for bed tilting
-- High Flow 
+  * Triple Nema 17 BMG Z
+  * Maxwell motion coupling for accurate bed leveling
+- Rigid Toolhead 
   * Using low cost hotend, Peopoly Lancer for >60 mm^3 flow rate
-  * Possible worm drive extruder
+  * SLM aluminum design
+  * WS7040 CPAP for high cfm 
 - Accesible Electronics
-  * External or Backpack electronics enclosure
+  * Backpack electronics enclosure
    
