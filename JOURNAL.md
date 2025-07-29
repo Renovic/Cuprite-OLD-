@@ -131,6 +131,19 @@ Currently the total cost is $357, so I might have to swap to an primarly fdm too
 **Total: 33** 
 
 
+# Day 7 - Z Axis
+Because the bed is relatively light, I decided to use bmg gears for my reductions rather than a belt loop reduction to save space and cost.
+Because the bottom of my frame is made out of 4040 extrusions, I mounted my z motors onto of the bottom extrusions instead of under to get a good belt path.
 
+Couple of other things I finished:
+- More cost reductions ~ -$15
+- Created a cutlist for extrusions to verify that I have enough extrusion
+- Looked at existing wiring guides to start wiring diagram
+
+![Z Drive Assembly](/Images/Screenshot%202025-07-29%20001921.png)
+![Z Drive in Frame](/Images/Screenshot%202025-07-29%20003913.png)
+
+**Hours Spent: 6**
+**Total: 39** 
 
 
