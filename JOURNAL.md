@@ -1,7 +1,7 @@
 ---
 title: "Cuprite"
 author: "Renovic"
-description: "Ender 5 + to fixed gantry corexy with triple Z designed for fast printing"
+description: "160mm^3 Fixed Gantry High Speed Corexy"
 created_at: "2025-06-10"
 ---
 
