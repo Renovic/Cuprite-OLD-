@@ -146,4 +146,18 @@ Couple of other things I finished:
 **Hours Spent: 6**
 **Total: 39** 
 
+# Day 8 - Electronics & more Z work
+Today, I made the wiring diagram for the printer and started electronics layout.
+
+I also made the Z idlers, and worked on the bed side maxwell rod mounts.
+
+![Wiring Diagram](/Images/Cuprite%20Wiring.png)
+![Initial Electronics Layout](/Images/Screenshot%202025-07-30%20011609.png)
+![Z Idlers](/Images/Screenshot%202025-07-30%20011621.png)
+
+**Hours Spent: 4**
+**Total: 43** 
+
+ 
+
 
