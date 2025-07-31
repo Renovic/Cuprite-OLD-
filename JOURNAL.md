@@ -158,6 +158,13 @@ I also made the Z idlers, and worked on the bed side maxwell rod mounts.
 **Hours Spent: 4**
 **Total: 43** 
 
- 
+ # Day 9 - Electronics Area
+Today I designed the skirts for the electronics bay. A while ago I saw a video on 3d printed kumiko (japanese wood art) panels and thought it would look really good as skirts for a printer. I messed around with online kumiko generators to figure out what patters would look good as skirts, but I settled on a simple design which has a lot of open space for airflow.
+
+![Kumiko Skirts](/Images/Screenshot%202025-07-31%20003900.png)
+![Printer with Skirts](/Images/Screenshot%202025-07-31%20005200.png)
+
+**Hours Spent: 6**
+**Total: 49** 
 
 
