@@ -3,6 +3,7 @@
 
 ![Cuprite](/Images/Cuprite%20v21.png)
 ![Back Panel render](/Images/Back%20Panel%20Render.png)
+![Close Up render](/Images/Cuprite%20Close%20Up%20Render.png)
 
 ## Design Goals
 - Fast and Rigid Corexy Gantry
