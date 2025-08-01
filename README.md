@@ -2,6 +2,7 @@
 160mm^3 Fixed Gantry High Speed Corexy
 
 ![Cuprite](/Images/Cuprite%20v21.png)
+![Back Panel render](/Images/Back%20Panel%20Render.png)
 
 ## Design Goals
 - Fast and Rigid Corexy Gantry
