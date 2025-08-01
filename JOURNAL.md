@@ -5,6 +5,8 @@ description: "160mm^3 Fixed Gantry High Speed Corexy"
 created_at: "2025-06-10"
 ---
 
+Total Hours: 61
+
 # Day 1 - Intial Planning
 This day is more of an summary of my previous thoughts and plans for this printer. 
 I have been somewhat planning this printer rebuild since I bought it a few months ago, so I have some components for it already, but haven't started a full CAD model yet.
