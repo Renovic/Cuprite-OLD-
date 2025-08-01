@@ -1,6 +1,8 @@
 # Cuprite
 160mm^3 Fixed Gantry High Speed Corexy
 
+![Cuprite](/Images/Cuprite%20v21.png)
+
 ## Design Goals
 - Fast and Rigid Corexy Gantry
   * Monolith Belt path using a mix of sheet metal and fdm 
@@ -17,4 +19,13 @@
   * WS7040 CPAP for high cfm 
 - Accesible Electronics
   * Backpack electronics enclosure
+
+ ## Why I designed this
+ I wanted to create a reliable high speed printer to replace my ender 3. I primarly want to print more functional parts out of abs and possible abs-cf or abs-gf. And sometimes I like pushing my printer for speed tests or competitions, so I wanted it to be built with high accelerations and speeds in mind.
+
+## Wiring Diagram
+![Wiring Diagram](/Images/Cuprite%20Wiring.png)
+
+ Bom is in CSV
+ https://docs.google.com/spreadsheets/d/190TWAfKuzCkUHcKWP5val5u4-TL7WqxvR4hfKsAo7_s/edit?gid=693818551#gid=693818551
    
