@@ -7,7 +7,7 @@ created_at: "2025-06-10"
 
 Total Hours: 61
 
-# Day 1 - Intial Planning
+# Day 1 - Intial Planning (Jun 11)
 This day is more of an summary of my previous thoughts and plans for this printer. 
 I have been somewhat planning this printer rebuild since I bought it a few months ago, so I have some components for it already, but haven't started a full CAD model yet.
  
@@ -75,7 +75,7 @@ Parts I need
 
 **Hours Spent: 3** 
 
-# Day 2 - CAD started
+# Day 2 - CAD started (Jun 18)
 Created a new frame using some of the extrusions from the base Ender 5. Primary goals of this frame is to maximize travel from using 400mm rails and still have space for large toolheads.
 I then added the 9mm 2wd configuration of the Monolith gantry as a placeholder. Soon I'm going to modify it to add a strucural front brace and make it attach to the extra 2020 extrusions on the side and back rather than only the gantry extrusions.
 
@@ -86,7 +86,7 @@ I started planning the Z axis by placing the bed for keeping the most usable bed
 **Hours Spent: 3**
 **Total: 6** 
 
-# Day 3 & 4 Starting From Scratch
+# Day 3 & 4 Starting From Scratch (Jul 26)
 I decided to restart this printer design to be a 160 mm^3 printer. The 3 main reasons why I decided on this change was the cost, weight, and usability. 
 With the Ender 5 frame, the panels were 555x700mm and would have cost $30 each and were taking up a lot of the budget. And this massive frame and large panels would have made it weigh too much to carry myself.
 This new printer has a footprint of 330x330mm and will weigh significantly less. Also I knew that 95% of parts fit withing a 160mm^3 build volume.
@@ -119,7 +119,7 @@ https://docs.google.com/spreadsheets/d/190TWAfKuzCkUHcKWP5val5u4-TL7WqxvR4hfKsAo
 **Hours Spent: 15**
 **Total: 21** 
 
-# Day 5&6 - Toolhead & More parts sourcing
+# Day 5&6 - Toolhead & More parts sourcing (Jul 27)
 I decided to go with an SLM toolhead for the best rigidity possible, and to have good clamping force on the belts.
 I designed a 3 part toolhead with the Monolith Belt Clamp and the larger body toolhead that has ducts and extruder combined, with an abs-cf extruder housing.
 
@@ -133,7 +133,7 @@ Currently the total cost is $357, so I might have to swap to an primarly fdm too
 **Total: 33** 
 
 
-# Day 7 - Z Axis
+# Day 7 - Z Axis (Jul 28)
 Because the bed is relatively light, I decided to use bmg gears for my reductions rather than a belt loop reduction to save space and cost.
 Because the bottom of my frame is made out of 4040 extrusions, I mounted my z motors onto of the bottom extrusions instead of under to get a good belt path.
 
@@ -148,7 +148,7 @@ Couple of other things I finished:
 **Hours Spent: 6**
 **Total: 39** 
 
-# Day 8 - Electronics & more Z work
+# Day 8 - Electronics & more Z work (Jul 29)
 Today, I made the wiring diagram for the printer and started electronics layout.
 
 I also made the Z idlers, and worked on the bed side maxwell rod mounts.
@@ -160,7 +160,7 @@ I also made the Z idlers, and worked on the bed side maxwell rod mounts.
 **Hours Spent: 4**
 **Total: 43** 
 
- # Day 9 - Electronics Area
+ # Day 9 - Electronics Area (Jul 30)
 Today I designed the skirts for the electronics bay. A while ago I saw a video on 3d printed kumiko (japanese wood art) panels and thought it would look really good as skirts for a printer. I messed around with online kumiko generators to figure out what patters would look good as skirts, but I settled on a simple design which has a lot of open space for airflow.
 
 ![Kumiko Skirts](/Images/Screenshot%202025-07-31%20003900.png)
@@ -169,7 +169,7 @@ Today I designed the skirts for the electronics bay. A while ago I saw a video o
 **Hours Spent: 6**
 **Total: 49** 
 
-# Day 10 - Electronics, Z, Gantry
+# Day 10 - Electronics, Z, Gantry (Jul 31)
 For the electronics I decided on using 2010 extrusion and designed the mounting brackets for all of the my electronics.
 ![Electronics Bay Completed](/Images/Screenshot%202025-07-31%20205316.png)
 
