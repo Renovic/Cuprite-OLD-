@@ -167,4 +167,21 @@ Today I designed the skirts for the electronics bay. A while ago I saw a video o
 **Hours Spent: 6**
 **Total: 49** 
 
+# Day 10 - Electronics, Z, Gantry
+For the electronics I decided on using 2010 extrusion and designed the mounting brackets for all of the my electronics.
+![Electronics Bay Completed](/Images/Screenshot%202025-07-31%20205316.png)
 
+For the gantry I redesigned all of the gantry components to use a combination of fdm parts and 1/8" aluminum to use the extra from the panels.
+I also shifted the rear motor mounts 10mm backwards to allow for some overtravel in the Y axis.
+
+![Rear Motor Mounts](/Images/Screenshot%202025-07-31%20162544.png)
+![Gantry](/Images/Screenshot%202025-07-31%20162502.png)
+
+Finally I finished up the Z axis by creating the Z joints with the maxwell mounting.
+![Z joints](Images/Screenshot%202025-07-31%20222916.png)
+
+And with a couple of other small parts that completes the printer.
+![Full Printer](/Images/Screenshot%202025-07-31%20224137.png)
+
+**Hours Spent: 12**
+**Total: 61**
