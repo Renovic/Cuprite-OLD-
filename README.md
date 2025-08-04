@@ -1,26 +1,44 @@
 # Cuprite
 160mm^3 Fixed Gantry High Speed Corexy
+* [Design Components](#design-components)
+* [Design Reasoning](#why-i-designed-this)
+* [Wiring Diagram](#wiring-diagram)
+* [BOM](#bom)
 
+## Renders
 ![Cuprite](/Images/Cuprite%20Full%20Printer%20Render(Blue).png)
-![Electronics](/Images/Cuprite%20Electronics%20Render%20(Blue).png)
-![Toolhead](/Images/Cuprite%20Toolhead%20Focus%20Render(Blue).png)
 
-## Design Goals
+<p align="center">
+  <img alt="Electronics" src="./Images/Cuprite%20Electronics%20Render%20(Blue).png" width="48%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Toolhead" src="./Images/Cuprite%20Toolhead%20Focus%20Render(Blue).png" width="48%">
+</p>
+
+## Design Components
 - Fast and Rigid Corexy Gantry
-  * Monolith Belt path using a mix of sheet metal and fdm 
+  * Monolith Inspired gantry
+  * 9mm 2WD using 2504 s55 nema 17s
+  * 1/8" aluminum and FDM sandwich for high rigidity
+  * Increased y overtravel
 - Solid Frame
   * Using on hand extrusions inlcuding Ender 3 Pro frame
-  * As Much 4040 and 2040 as possible
+  * Base 4040 extrusion with 2040
   * 1/8" Aluminum structural panels
+  * Extrusion based door with 1/8" Acrylic Panels
 - Triple Z Axis
   * Triple Nema 17 BMG Z
-  * Maxwell motion coupling for accurate bed leveling
+  * 6mm Belts
+  * Maxwell motion coupling for accurate bed leveling (Inspired by ANNEX K3 Z)
 - Rigid Toolhead 
   * Using low cost hotend, Peopoly Lancer for >60 mm^3 flow rate
-  * SLM aluminum design
+  * SLM aluminum design (Inspired by Monolith Toolhead)
   * WS7040 CPAP for high cfm 
 - Accesible Electronics
   * Backpack electronics enclosure
+  * Fystec spider v2.3 with tmc2209
+  * Meanwell LRS 350W PSU
+  * Raspberry Pi or equivalent 
+  * Can easily be upgraded to 48v drivers
 
  ## Why I designed this
  I wanted to create a reliable high speed printer to replace my ender 3. I primarly want to print more functional parts out of abs and possible abs-cf or abs-gf. And sometimes I like pushing my printer for speed tests or competitions, so I wanted it to be built with high accelerations and speeds in mind.
