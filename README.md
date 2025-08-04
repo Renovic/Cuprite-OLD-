@@ -9,9 +9,9 @@
 ![Cuprite](/Images/Cuprite%20Full%20Printer%20Render(Blue).png)
 
 <p align="center">
-  <img alt="Electronics" src="./Images/Cuprite%20Electronics%20Render%20(Blue).png" width="48%">
+  <img alt="Electronics" src="./Images/Cuprite%20Electronics%20Render%20(Blue).png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Toolhead" src="./Images/Cuprite%20Toolhead%20Focus%20Render(Blue).png" width="48%">
+  <img alt="Toolhead" src="./Images/Cuprite%20Toolhead%20Focus%20Render(Blue).png" width="45%">
 </p>
 
 ## Design Components
