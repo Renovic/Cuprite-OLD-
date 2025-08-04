@@ -3,6 +3,7 @@
 * [Design Components](#design-components)
 * [Design Reasoning](#why-i-designed-this)
 * [Wiring Diagram](#wiring-diagram)
+* [Firmware](#firmware)
 * [BOM](#bom)
 
 ### Files
@@ -47,12 +48,12 @@
  ## Why I designed this
  I wanted to create a reliable high speed printer to replace my ender 3. I primarly want to print more functional parts out of abs and possible abs-cf or abs-gf. And sometimes I like pushing my printer for speed tests or competitions, so I wanted it to be built with high accelerations and speeds in mind.
 
+## Wiring Diagram
+![Wiring Diagram](/Images/Cuprite%20Wiring.png)
+
 ## Firmware
 Stock klipper on a BTT PI v1.2, with mainsail interface.
 Printer config can be found [here](/Config/printer.cfg).
-
-## Wiring Diagram
-![Wiring Diagram](/Images/Cuprite%20Wiring.png)
 
 ## Bom 
     
