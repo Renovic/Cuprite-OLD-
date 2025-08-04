@@ -5,6 +5,10 @@
 * [Wiring Diagram](#wiring-diagram)
 * [BOM](#bom)
 
+### Files
+* [CAD](/CAD/Cuprite.zip)
+* [BOM(csv)](/BOM/Cuprite%20BOM%20-%20160mm.csv)
+* [Config](/Config/printer.cfg)
 ## Renders
 ![Cuprite](/Images/Cuprite%20Full%20Printer%20Render(Blue).png)
 
@@ -37,11 +41,15 @@
   * Backpack electronics enclosure
   * Fystec spider v2.3 with tmc2209
   * Meanwell LRS 350W PSU
-  * Raspberry Pi or equivalent 
+  * Raspberry Pi or equivalent
   * Can easily be upgraded to 48v drivers
 
  ## Why I designed this
  I wanted to create a reliable high speed printer to replace my ender 3. I primarly want to print more functional parts out of abs and possible abs-cf or abs-gf. And sometimes I like pushing my printer for speed tests or competitions, so I wanted it to be built with high accelerations and speeds in mind.
+
+## Firmware
+Stock klipper on a BTT PI v1.2, with mainsail interface.
+Printer config can be found [here](/Config/printer.cfg).
 
 ## Wiring Diagram
 ![Wiring Diagram](/Images/Cuprite%20Wiring.png)
