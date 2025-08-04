@@ -7,7 +7,7 @@
 * [BOM](#bom)
 
 ### Files
-* [CAD](/CAD/Cuprite.zip)
+* [CAD](/CAD/Cuprite(Step).zip)
 * [BOM(csv)](/BOM/Cuprite%20BOM%20-%20160mm.csv)
 * [Config](/Config/printer.cfg)
 ## Renders
