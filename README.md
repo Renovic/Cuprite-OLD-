@@ -19,7 +19,7 @@
   <img alt="Toolhead" src="./Images/Cuprite%20Toolhead%20Focus%20Render(Blue).png" width="45%">
 </p>
 
-###Sponsors
+### Sponsors
 * [Hack Club (Highway)](https://highway.hackclub.com/) 
 * [Sunlu](https://www.sunlu.com/)
 * [OSHWLAB(JLCPCB)](https://oshwlab.com/activities/stars)
