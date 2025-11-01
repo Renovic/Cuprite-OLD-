@@ -188,69 +188,8 @@ And with a couple of other small parts that completes the printer.
 **Hours Spent: 12**
 **Total: 61**
 
-# Day 11 - Full Redesign Concept (Sept 20 - Oct 1st)
-So I've been reaching out to companies for sponsorships, and I've realized that a lot of parts aren't ideal. I really wanted to make the most out of this printer. 
-I got sponsored by: LDO, Sunlu, BST Automation, Filastruder, JLCPCB(OSHWLAB).
+**Hours Spent: 5.5**
+**Total: 91**
 
-So here are all of the changes I plan:
-### Frame: 
-2020 + 2040 - > 4040 verticals (JLCMC) 
-- This will imporve rigidity greatly and allow for better mounting
-### Insulation/Panels:
-No Insulation -> 3/4" PIR Insulation
-- Fits inside of the frame, which is why 4040 verticals are important
-### Gantry: 
-9mm belts -> 12mm EPDM (partialy sponsored by Filastruder)
-2WD -> 4WD (Sponserd by LDO)
-1/8" Alu sheetmetal -> CNC aluminum (JLCCNC)
-2020 extrusion x-gantry -> 2030 aluminum tube
-- Should allow for more rigidity
-- ~30% Input Shaper gain from 9mm -> 12mm belts
-- ~100% Input Shaper gain from 2WD -> AWD
-- More Input Shaper gain from extra frame, and gantry rigidty
-### Toolhead:
-Peopoly Lancer -> Custom aluminum hotend (JLC3DP)
-Fully SLM/CNC toolhead (JLC3DP & JLCNC)
-G2 Extruder (LDO)
-- Better extrusion from G2
-- More rigidity from bottom supported hotend
-- Centered COM from redesign
-- higher flow rate
-### Cooling:
-WS7040 -> 130k RPM Ducted Fan
-No flap -> Stepper motor flap 
-- Cheaper
-- Higher max cfm
-### Z Axis
-In chamber motors -> bottom mounted motors
-3dp joints -> slm joints (JLC3DP)
-No spring tension -> spring holding down bed frame to joints
-Extrusion bed frame -> Laser cut aluminum frame
-- More rigidity
-- More travel from bottom mounted z motors
-### Electronics
-Fystec Spider -> Leviathan + Expansion board (sponsored by LDO)
-tmc2209 XY motor drivers -> tmc5160 XY motor drivers (Built in to Leviathan)
-24V XY -> 48V XY (Partially sponsored by Filastruder)
-0 mainboard cooling -> 4x 6020 fans (JLCMC)
-- Higher stepper motor speeds
-- Better step control
-- Can cool stepper motors
-### Chamber Heater
-None -> 100W Chamber Heater
-- Cheap
-- Allows for good chamber temps
-### Aesthetic Improvements
-Rear backpack -> top and bottom electronics enclosures
-Exposed panels -> printed covers
-Door hinges integrated into panel covers
-- Displays Leviathan and good looking electronics on top
-- Hides PSUs underneath
-- Nicer visuals
 
-Even with all of these improvments, the cost of new components is cheaper than the original
 
-During these few days I also found sources for all of the other components
-
-**Hours Spent: 12**
-**Total: 73** 
